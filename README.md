@@ -1,4 +1,4 @@
-# Watershed-Delineation-
+# Watershed-Delineation
 How to delineate a drainage basin to specific point in QGIS
 
 These are instructions for delineating watersheds in QGIS along with code to perform the delineation for multiple locations. This code can only be run in the QGIS python console as it iterates through the QGIS toolboxes. The code helpful if you are trying to delineate multiple watersheds. 
